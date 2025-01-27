@@ -164,3 +164,6 @@ db/
 
 # Ignore the docs/ directory
 docs/
+
+# Ignore ann extension files
+*.ann
