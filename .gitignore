@@ -167,3 +167,7 @@ docs/
 
 # Ignore ann extension files
 *.ann
+
+# Evaluating and Debugging Generative AI using Weights and Biases
+wandb/
+weights/
