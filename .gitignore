@@ -171,3 +171,8 @@ docs/
 # Evaluating and Debugging Generative AI using Weights and Biases
 wandb/
 weights/
+
+# Building and Evaluating Advanced RAG
+sentence_index/
+merging_index/
+default.sqlite
