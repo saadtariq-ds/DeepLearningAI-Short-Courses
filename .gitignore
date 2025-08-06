@@ -176,3 +176,5 @@ weights/
 sentence_index/
 merging_index/
 default.sqlite
+sentence_index_1/
+sentence_index_3/
